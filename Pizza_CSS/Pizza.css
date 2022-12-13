@@ -5,8 +5,11 @@
 }
 
 #frmMenu {
-    width: 400px;
+    width: 600px;
     height: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 #totalPrice {
